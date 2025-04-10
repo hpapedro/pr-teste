@@ -1,0 +1,11 @@
+h1 {
+    font-family: 'Montserrat', Arial;
+    text-align: center;
+    color: #ffff;
+}
+
+body{
+    background: linear-gradient(to right, #ff3300, #000000);
+    padding: 20px;
+    font-family: 'Roboto', sans-serif;
+}
